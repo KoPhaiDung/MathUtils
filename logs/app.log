@@ -1,0 +1,6 @@
+2026-05-05 16:05:31 [main] INFO  org.Main - Ứng dụng đang bắt đầu khởi chạy...
+2026-05-05 16:05:31 [main] INFO  org.Main - Tính toán giá trị lớn nhất của 2 và 5
+2026-05-05 16:05:31 [main] INFO  org.Main - Kết quả Max tìm được là: 5
+2026-05-05 16:05:31 [main] INFO  org.Main - Thực hiện phép chia: 2 / 0
+2026-05-05 16:05:31 [main] ERROR org.Main - Đã xảy ra lỗi logic: Divider must not be zero
+2026-05-05 16:05:31 [main] INFO  org.Main - Ứng dụng kết thúc an toàn.
